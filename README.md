@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[Deployed App] (https://infallible-goodall-5bb50c.netlify.app/)
+Deployed App: https://infallible-goodall-5bb50c.netlify.app/
 
 
 
